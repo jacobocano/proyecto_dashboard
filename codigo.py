@@ -21,7 +21,7 @@ employees_data = pd.read_csv('Employee_data.csv')
 # ------------------------------------------------------------------------------------------------------------------------------------
 # 1.    Código que contenga las instrucciones para el despliegue de un título y una breve descripción de la aplicación web.
 # ------------------------------------------------------------------------------------------------------------------------------------
-st.title('Performance analysis of the collaborators of Socialize your knowledge')
+st.title('Prueba de actualización')
 st.subheader('Dashboard to identify your strengths and areas for improvement, enabling you to enhance your performance and achieve higher quality services.')
 
 # ------------------------------------------------------------------------------------------------------------------------------------
